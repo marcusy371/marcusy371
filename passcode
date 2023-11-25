@@ -1,0 +1,4 @@
+passcode = print (133269)
+passcode_input = ()
+if passcode == passcode_input :
+  print("secret message")
