@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marcusy371
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning piano and programming
-- 💞️ I’m looking to collaborate on GitHub
+- 💞️ I’m looking forward to collaborate on GitHub
 - 📫 How to reach me ：+852 9226 2664(My dad's phone number)
 
 <!---
