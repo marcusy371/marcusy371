@@ -1,8 +1,8 @@
 *- 👋 Hi, I’m @marcusy371
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python 3
+- 🌱 I’m currently learning python 3 and python
 - 💞️ I’m looking forward to collaborate on GitHub
-- 📫 How to reach me ：+852 9226 2664(My dad's phone number)
+- 📫 How to reach me ：kids@gmail.com
 
 <!---
 marcusy371/marcusy371 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
